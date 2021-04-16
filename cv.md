@@ -9,8 +9,8 @@ Belarus, Minsk, 220045.
 ### Phone
 +375 (29) 364-26-74
 ### E-mail
-arseni2507@gmail.com 
-
+arseni2507@gmail.com
+arseni2507@mail.ru
 
 ## Goal
 Student -> Programmer
